@@ -1,0 +1,23 @@
+{
+  "name": "sast-nodejsscan-sample",
+  "version": "1.0.0",
+  "description": "Static code analysis for OWASP Juice Shop using NodeJsScan",
+  "main": "sast-nodejsscan-sample.js",
+  "scripts": {
+    "test": "node sast-nodejsscan-sample.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miozilla/sast.git"
+  },
+  "keywords": [
+    "sast",
+    "nodejsscan"
+  ],
+  "author": "Mior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miozilla/sast/issues"
+  },
+  "homepage": "https://github.com/miozilla/sast#readme"
+}
